@@ -1,0 +1,15 @@
+C:\Users\sashu\source\repos\cars\cars\obj\Debug\net6.0\cars.csproj.AssemblyReference.cache
+C:\Users\sashu\source\repos\cars\cars\obj\Debug\net6.0\cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sashu\source\repos\cars\cars\obj\Debug\net6.0\cars.AssemblyInfoInputs.cache
+C:\Users\sashu\source\repos\cars\cars\obj\Debug\net6.0\cars.AssemblyInfo.cs
+C:\Users\sashu\source\repos\cars\cars\obj\Debug\net6.0\cars.csproj.CoreCompileInputs.cache
+C:\Users\sashu\source\repos\cars\cars\bin\Debug\net6.0\cars.exe
+C:\Users\sashu\source\repos\cars\cars\bin\Debug\net6.0\cars.deps.json
+C:\Users\sashu\source\repos\cars\cars\bin\Debug\net6.0\cars.runtimeconfig.json
+C:\Users\sashu\source\repos\cars\cars\bin\Debug\net6.0\cars.dll
+C:\Users\sashu\source\repos\cars\cars\bin\Debug\net6.0\cars.pdb
+C:\Users\sashu\source\repos\cars\cars\obj\Debug\net6.0\cars.dll
+C:\Users\sashu\source\repos\cars\cars\obj\Debug\net6.0\refint\cars.dll
+C:\Users\sashu\source\repos\cars\cars\obj\Debug\net6.0\cars.pdb
+C:\Users\sashu\source\repos\cars\cars\obj\Debug\net6.0\cars.genruntimeconfig.cache
+C:\Users\sashu\source\repos\cars\cars\obj\Debug\net6.0\ref\cars.dll
